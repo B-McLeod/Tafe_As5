@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TicTacToe</string>
+    <string name="action_settings">Settings</string>
+    <string name="NewGame">New Game</string>
+    <string name="blank"></string>
+    <string name="nought">O</string>
+    <string name="cross">X</string>
+    <string name="playerXWon">Player X has won!!</string>
+    <string name="playerOWon">Player O has won!!</string>
+    
+
+</resources>
