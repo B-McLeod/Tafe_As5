@@ -5,7 +5,6 @@
 **Teacher:** David Hunt  
 **Assessment No.:** 5  
 **Assessment Title:** Java - Android Tic-Tac-Toe Application  
-**Due Date:** 24th October 2014  
 **Details:** This application allows the user to play a game of Tic-Tac-Toe on an Android device.  
 
 ## Details
@@ -19,8 +18,8 @@
 ### Specifications
 
 * The app uses buttons for the nine Tic-Tac-Toe squares.
-* Make the app work well in portrait and landscape orientations.
-* The app should save the game when the user switches orientations or navigates away from the app and then back to it.
+* Make the app work well in portrait and landscape orientations. 
+* The app should save the game when the user switches orientations or navigates away from the app and then back to it. (JSON Required, No longer required due to class timeframe)
 
 ### Enhancements
 
